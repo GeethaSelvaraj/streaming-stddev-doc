@@ -63,6 +63,7 @@ Then compute:
 
 ```math
 newVariance = dividend / (oldCount + k - 1)
+
 newStdDev = sqrt(newVariance)
 ```
 
