@@ -62,8 +62,7 @@ dividend = (oldCount - 1) * ostd² + Σ (xᵢ - mArr[i+1]) * (xᵢ - mArr[i])
 Then compute:
 
 ```math
-newVariance = dividend / (oldCount + k - 1)
-
+newVariance = dividend / (oldCount + k - 1) ;
 newStdDev = sqrt(newVariance)
 ```
 
