@@ -51,7 +51,7 @@ Let:
 
 * `var = ostd²`
 * `x_i` = i-th new element
-* `\bar{x}_i`, `\bar{x}_{i+1}` = means before and after adding `x_i`
+* `k` = length of new elements
 
 Update the sum of squares:
 
